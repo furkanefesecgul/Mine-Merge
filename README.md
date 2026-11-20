@@ -7,6 +7,7 @@ Arkadaşımla birlikte geliştirdiğimiz Mine Merge ile oyunculara keyifli, sür
 🎮 Oyunu Keşfet
 
 Mine Merge – Google Play'de Hemen Oyna
+https://play.google.com/store/apps/details?id=com.kbegames.minemerge&hl=tr
 
 📁 Repository Hakkında
 
